@@ -1,0 +1,17 @@
+date,hour,action_type,location,latitude,longitude,notes
+2025-05-15,9,Marcha,Ángel de la Independencia,19.423,-99.167,Inicio de la mega marcha hacia el Zócalo
+2025-05-15,13,Plantón,Zócalo,19.433,-99.132,Instalación de plantón indefinido
+2025-05-20,8,Bloqueo,Auditorio Nacional,19.422,-99.191,Bloqueo simultáneo anunciado
+2025-05-20,8,Bloqueo,Intercambio La Raza,19.462,-99.146,Bloqueo simultáneo anunciado
+2025-05-20,8,Bloqueo,Calz. de Tlalpan & Gral. Anaya,19.36,-99.15,Bloqueo simultáneo anunciado
+2025-05-20,8,Bloqueo,Zaragoza & Blvd. Puerto Aéreo,19.428,-99.079,Bloqueo simultáneo anunciado
+2025-05-22,14,Bloqueo,Paseo de la Reforma (Gral. Prim),19.431,-99.153,Cierre de carriles laterales
+2025-05-23,12,Concentración,Zócalo,19.433,-99.132,Concentración prevista
+2025-05-23,12,Bloqueo,AICM Terminal 1 accesos,19.436,-99.073,Bloqueo de accesos vehiculares al aeropuerto
+2025-06-02,10,Bloqueo,Secretaría de Gobernación (Bucareli & Abraham González),19.4308,-99.1537,"Bloqueo en Segob; cierre de Bucareli, Abraham González y calles aledañas"
+2025-06-06,11,Marcha,Ángel de la Independencia (inicio),19.423,-99.167,Marcha Ángel-Zócalo; demanda ISSSTE; inicio de movilización
+2025-06-06,12,Bloqueo,Reforma & Insurgentes (Glorieta),19.4305,-99.17,Bloqueo parcial mientras avanza la marcha
+2025-06-18,6,Bloqueo/Brigada,ISSSTE Clínica Tlalpan (Benito Juárez 15),19.282,-99.1629,Brigada informativa; bloqueo parcial temprano
+2025-06-18,12,Bloqueo/Brigada,ISSSTE Iztapalapa II (Av. San Lorenzo 278),19.3339,-99.0993,Brigada informativa y bloqueo intermitente
+2025-06-18,13,Bloqueo/Brigada,ISSSTE Cuajimalpa (entre Tamaulipas y Castillo Ledón),19.3604,-99.2874,Brigada informativa; cierre parcial de vialidad local
+2025-06-18,15,Bloqueo/Brigada,Hospital ISSSTE Fernando Quiroz (Alvaro Obregón),19.3642,-99.2122,Volanteo y bloqueo en hospital; reparto de propaganda
